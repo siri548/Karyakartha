@@ -1,0 +1,47 @@
+.bg-forgotpage {
+    background-color: lightgrey;
+}
+
+.outer-icon {
+    color: blue;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+}
+
+.inner-icon {
+    color: blue;
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.forgotPage-verticlelineBrandname {
+    width: 1px;
+    height: 80%;
+    background-color: black;
+    padding: 3px;
+}
+
+. .forgotPage-card {
+    background-color: white;
+    border-color: blue;
+    border-top: 0px;
+    border-right-width: 2px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+}
+
+.forgotPage-closeIcon {
+    color: black;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+.forgotHeading {
+    color: blue;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-style: italic;
+}
