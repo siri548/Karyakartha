@@ -68,7 +68,7 @@
                                                             padding-left: 30px;
                                                             padding-top: 20px;
                                                             font-style: italic;
-                                                            padding-bottom: 18px;
+                                                            padding-bottom: 14px;
                                                         }
                                                         
                                                         .karyakartha-tagline {
@@ -77,7 +77,6 @@
                                                         }
                                                         
                                                         .forgotPage-para {
-                                                            padding-top: 5px;
                                                             text-align: center;
                                                             color: grey;
                                                             font-size: 18px;
@@ -89,48 +88,46 @@
                                                             font-size: 20px;
                                                             padding-left: 28px;
                                                             margin: 8px;
-                                                            padding-bottom: 16px;
+                                                            padding-bottom: 10px;
                                                         }
                                                         
                                                         .forgotPage-envelopeIcon {
-                                                            color: rgb(102, 101, 101);
+                                                            color: rgb(155, 150, 150);
                                                             font-size: 25px;
+                                                            margin-left: 10px;
+                                                            margin: 2px;
+                                                            margin-top: 4px;
                                                             margin-right: 4px;
-                                                            background-color: rgb(251, 249, 249)
                                                         }
                                                         
                                                         .forgotPage-inputContainer {
                                                             background-color: rgb(251, 249, 249);
-                                                            margin-left: 30px;
+                                                            margin: 20px;
                                                             font-size: 18px;
                                                             display: flex;
                                                             width: 100%;
                                                             border-width: 1px;
-                                                            border-color: rgb(174, 174, 174);
+                                                            border-color: rgb(125, 124, 124);
                                                             border-style: solid;
-                                                            border-radius: 2px;
-                                                            padding-left: 5px;
-                                                            margin-bottom: 20px;
+                                                            border-radius: 3px;
                                                         }
                                                         
                                                         .forgotPage-input {
-                                                            background-color: rgb(251, 249, 249);
+                                                            background-color: rgb(250, 248, 248);
                                                             border-width: 0px;
                                                             outline: none;
                                                             border: none;
                                                             flex: 1;
                                                             padding-bottom: 3px;
                                                             padding-top: 3px;
-                                                            padding-left: 5px;
+                                                            padding-left: px;
                                                         }
                                                         
                                                         .forgotPage-resetButton {
                                                             padding: 5px;
                                                             text-align: center;
                                                             width: 100%;
-                                                            margin-bottom: 30px;
-                                                            margin-top: 20px;
-                                                            margin-left: 30px;
+                                                            margin: 30px;
                                                         }
                                                         
                                                         .forgotPage-cardsmallDevices {
@@ -180,19 +177,5 @@
                                                             margin-left: 20px;
                                                             width: 100%;
                                                             font-size: 14px;
-                                                            margin-bottom: 20px;
-                                                        }
-                                                        
-                                                        .forgotPage-inputContainerSmall {
-                                                            background-color: rgb(251, 249, 249);
-                                                            margin-left: 20px;
-                                                            font-size: 18px;
-                                                            display: flex;
-                                                            width: 100%;
-                                                            border-width: 1px;
-                                                            border-color: rgb(174, 174, 174);
-                                                            border-style: solid;
-                                                            border-radius: 2px;
-                                                            padding-left: 5px;
-                                                            margin-bottom: 20px;
+                                                            margin-bottom: 10px;
                                                         }
