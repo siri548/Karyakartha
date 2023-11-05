@@ -1,0 +1,126 @@
+                                                        .bg-forgotpage {
+                                                            background-color: lightgrey;
+                                                            height: 150vh;
+                                                        }
+                                                        
+                                                        .logo {
+                                                            background-size: cover;
+                                                        }
+                                                        
+                                                        .karykartaname {
+                                                            font-size: 25px;
+                                                            color: black;
+                                                            font-family: "Audiowide", sans-serif;
+                                                        }
+                                                        
+                                                        .forgotPage-card {
+                                                            background-color: white;
+                                                            border-color: blue;
+                                                            border-top: 0px;
+                                                            border-right: 1px solid blue;
+                                                            border-left: 1px solid blue;
+                                                            border-bottom: 2px solid blue;
+                                                            border-radius: 5px;
+                                                            padding: 10px;
+                                                            width: 600px;
+                                                            margin-top: 150px;
+                                                            margin-bottom: 200px;
+                                                        }
+                                                        
+                                                        .forgotPage-closeIcon {
+                                                            color: black;
+                                                            font-size: 25px;
+                                                            padding-right: 10px;
+                                                        }
+                                                        
+                                                        .forgotHeading {
+                                                            color: blue;
+                                                            font-size: 30px;
+                                                            padding-left: 30px;
+                                                            padding-top: 20px;
+                                                            font-style: italic;
+                                                        }
+                                                        
+                                                        .karyakartha-tagline {
+                                                            color: lightsteelblue;
+                                                            font-size: 16px;
+                                                        }
+                                                        
+                                                        .forgotPage-para {
+                                                            color: grey;
+                                                            font-size: 18px;
+                                                        }
+                                                        
+                                                        .forgotPage-emailHeading {
+                                                            color: black;
+                                                            font-weight: 600;
+                                                            font-size: 22px;
+                                                            padding-left: 20px;
+                                                            margin: 8px;
+                                                        }
+                                                        
+                                                        .forgotPage-envelopeIcon {
+                                                            color: rgb(155, 150, 150);
+                                                            font-size: 25px;
+                                                            margin-left: 10px;
+                                                            margin: 2px;
+                                                            margin-top: 4px;
+                                                            margin-right: 4px;
+                                                        }
+                                                        
+                                                        .forgotPage-inputContainer {
+                                                            background-color: rgb(250, 248, 248);
+                                                            margin: 20px;
+                                                            font-size: 18px;
+                                                            display: flex;
+                                                            width: 100%;
+                                                        }
+                                                        
+                                                        .forgotPage-input {
+                                                            background-color: rgb(250, 248, 248);
+                                                            border-width: 0px;
+                                                            outline: none;
+                                                            border: none;
+                                                            flex: 1;
+                                                        }
+                                                        
+                                                        .forgotPage-resetButton {
+                                                            padding: 5px;
+                                                            text-align: center;
+                                                            text-align: center;
+                                                            width: 100%;
+                                                            margin: 20px;
+                                                        }
+                                                        
+                                                        .forgotPage-cardsmallDevices {
+                                                            background-color: white;
+                                                            margin: 20px;
+                                                            color: black;
+                                                            text-align: center;
+                                                            border-radius: 10px;
+                                                            margin-top: 60px;
+                                                            margin-bottom: 60px;
+                                                            font-size: 16px;
+                                                        }
+                                                        
+                                                        .hrline {
+                                                            border-width: 2px;
+                                                            color: black;
+                                                            text-align: center;
+                                                            padding: 30px;
+                                                            margin-top: 20px;
+                                                            border-color: black;
+                                                            width: 80px;
+                                                            margin-bottom: 6px;
+                                                        }
+                                                        
+                                                        .forgotContainer {
+                                                            margin: 8px;
+                                                            width: 80%;
+                                                        }
+                                                        
+                                                        .forgotPageHeadingSmallDevice {
+                                                            font-size: 20px;
+                                                            color: black;
+                                                            margin: 10px;
+                                                        }
