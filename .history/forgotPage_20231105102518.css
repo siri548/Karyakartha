@@ -1,39 +1,37 @@
                                                         .bg-forgotpage {
-                                                            background-color: lightgrey;
-                                                            height: 100vh;
+                                                        background-color: lightgrey;
+                                                        height: 100vh;
+                                                    }
+                                                    
+                                                    .logo {
+                                                        background-size: cover;
+                                                        width: 200px;
+                                                        height: 80px;
+                                                    }
+                                                    
+                                                    .navbar-toggler .line {
+                                                        display: block;
+                                                        width: 30px;
+                                                        height: 3px;
+                                                        margin: 4px 0;
+                                                        background-color: light;
+                                                        border: none;
+                                                    }
+                                                    
+                                                    .navbar-toggler .short-line2 {
+                                                        width: 10px;
+                                                        transform: scaleX(0.5);
+                                                    }
+                                                    
+                                                    .navbar-toggler {
+                                                        background-color: light;
+                                                        border          : none;
+                                                    }
+                                                    
+                                                    @ media(max-width: 768px) {
+                                                        shadow-md-down {
+                                                            box-shadow: none !important;
                                                         }
-                                                        
-                                                        .logo {
-                                                            background-size: cover;
-                                                            width: 200px;
-                                                            height: 80px;
-                                                        }
-                                                        
-                                                        .navbar-toggler .line {
-                                                            display: block;
-                                                            width: 30px;
-                                                            height: 3px;
-                                                            margin: 4px 0;
-                                                            background-color: light;
-                                                            border: none;
-                                                        }
-                                                        
-                                                        .navbar-toggler .short-line2 {
-                                                            width: 10px;
-                                                            transform: scaleX(0.5);
-                                                        }
-                                                        
-                                                        .navbar-toggler {
-                                                            background-color: light;
-                                                            border: none;
-                                                        }
-                                                        
-                                                        @media(max-width: 768px) {
-                                                            .shadow-md-down {
-                                                                box-shadow: none !important;
-                                                            }
-                                                        }
-                                                        
                                                         .forgotPage-card {
                                                             border-radius: 10px;
                                                             padding: 10px;
@@ -42,7 +40,6 @@
                                                             margin-bottom: 300px;
                                                             margin-top: 200px;
                                                         }
-                                                        
                                                         @media screen and (min-width: 768px) {
                                                             .forgotPage-card {
                                                                 margin-top: 150px;
@@ -55,13 +52,11 @@
                                                                 border-bottom: 3px solid blue;
                                                             }
                                                         }
-                                                        
                                                         .forgotPage-closeIcon {
                                                             color: black;
                                                             font-size: 25px;
                                                             padding-right: 10px;
                                                         }
-                                                        
                                                         .forgotHeading {
                                                             color: blue;
                                                             font-size: 30px;
@@ -69,17 +64,14 @@
                                                             padding-top: 20px;
                                                             font-style: italic;
                                                         }
-                                                        
                                                         .karyakartha-tagline {
                                                             color: lightsteelblue;
                                                             font-size: 16px;
                                                         }
-                                                        
                                                         .forgotPage-para {
                                                             color: grey;
                                                             font-size: 18px;
                                                         }
-                                                        
                                                         .forgotPage-emailHeading {
                                                             color: black;
                                                             font-weight: 600;
@@ -87,7 +79,6 @@
                                                             padding-left: 20px;
                                                             margin: 8px;
                                                         }
-                                                        
                                                         .forgotPage-envelopeIcon {
                                                             color: rgb(155, 150, 150);
                                                             font-size: 25px;
@@ -96,7 +87,6 @@
                                                             margin-top: 4px;
                                                             margin-right: 4px;
                                                         }
-                                                        
                                                         .forgotPage-inputContainer {
                                                             background-color: rgb(250, 248, 248);
                                                             margin: 20px;
@@ -104,7 +94,6 @@
                                                             display: flex;
                                                             width: 100%;
                                                         }
-                                                        
                                                         .forgotPage-input {
                                                             background-color: rgb(250, 248, 248);
                                                             border-width: 0px;
@@ -112,14 +101,12 @@
                                                             border: none;
                                                             flex: 1;
                                                         }
-                                                        
                                                         .forgotPage-resetButton {
                                                             padding: 5px;
                                                             text-align: center;
                                                             width: 100%;
                                                             margin: 20px;
                                                         }
-                                                        
                                                         .forgotPage-cardsmallDevices {
                                                             background-color: light;
                                                             color: black;
@@ -131,7 +118,6 @@
                                                             margin-left: 30px;
                                                             margin-right: 30px;
                                                         }
-                                                        
                                                         .hrline {
                                                             border-width: 2px;
                                                             color: black;
@@ -143,24 +129,20 @@
                                                             padding-bottom: 5px;
                                                             margin-bottom: 6px;
                                                         }
-                                                        
                                                         .forgotContainer {
                                                             margin: 6px;
                                                             width: 80%;
                                                         }
-                                                        
                                                         .forgotPageHeadingSmallDevice {
                                                             font-size: 20px;
                                                             color: black;
                                                             margin: 10px;
                                                         }
-                                                        
                                                         .forgotPage-emailHeadingSmall {
                                                             font-size: 15px;
                                                             font-weight: 500;
                                                             padding-left: 20px;
                                                         }
-                                                        
                                                         .forgotPage-resetButtonSmall {
                                                             padding: 5px;
                                                             text-align: center;

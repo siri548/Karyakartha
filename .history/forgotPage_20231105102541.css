@@ -28,8 +28,8 @@
                                                             border: none;
                                                         }
                                                         
-                                                        @media(max-width: 768px) {
-                                                            .shadow-md-down {
+                                                        @ media(max-width: 768px) {
+                                                            shadow-md-down {
                                                                 box-shadow: none !important;
                                                             }
                                                         }
